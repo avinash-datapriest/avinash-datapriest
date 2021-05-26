@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @avinash-datapriest
+- 👋 Hi, I’m Avinash Kumar Pandey
 - 👀 I’m interested in Financial Machine Learning Models
-- 🌱 I’m currently working as a research student in Finance at ISB Hyderabad
+- 🌱 I’m currently working as a Research Associate (RA) in Finance at Indian School of Business (ISB) located in the city of Hyderabad, India. 
 - 💞️ I’m looking to collaborate with interested people
 - 📫 How to reach me avinash_panday@isb.edu
 
